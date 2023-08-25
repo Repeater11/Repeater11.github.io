@@ -3,7 +3,7 @@ let total = 0
 let nowNum = 0
 let items = []
 let page = 1
-let Url = 'https://www.repeater11.cc/api/ispeak?author=64e76051233d32c94f39601e&page=' // 记住替换为你的API链接
+let Url = 'https://kkapi.repeater11.cc/api/ispeak?author=64e76051233d32c94f39601e&page=' // 记住替换为你的API链接
 
 
 window.addEventListener('DOMContentLoaded', () => {
