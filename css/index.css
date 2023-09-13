@@ -6622,6 +6622,12 @@ blockquote.pullquote.right {
   font-display: swap;
 }
 
+@font-face {
+  font-family: SiYuanOld;
+  src: url(/font/SourceHanSansOLD-Normal-2.otf);
+  font-display: swap;
+}
+
 /* 特定部件字体调用 */
 div#menus {
   font-weight: bold !important;
