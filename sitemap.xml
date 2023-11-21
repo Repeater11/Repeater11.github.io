@@ -155,6 +155,15 @@
   </url>
   
   <url>
+    <loc>https://repeater11.cc/box/animation/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://repeater11.cc/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -173,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://repeater11.cc/box/animation/index.html</loc>
+    <loc>https://repeater11.cc/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -191,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://repeater11.cc/site/time/index.html</loc>
+    <loc>https://repeater11.cc/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -219,15 +228,6 @@
   
   <url>
     <loc>https://repeater11.cc/life/music/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://repeater11.cc/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -296,13 +296,6 @@
   </url>
   
   <url>
-    <loc>https://repeater11.cc/tags/others/</loc>
-    <lastmod>2023-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://repeater11.cc/tags/Markdown/</loc>
     <lastmod>2023-11-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -311,6 +304,13 @@
   
   <url>
     <loc>https://repeater11.cc/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2023-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://repeater11.cc/tags/others/</loc>
     <lastmod>2023-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -326,14 +326,14 @@
   </url>
   
   <url>
-    <loc>https://repeater11.cc/categories/%E8%A7%A3%E9%A2%98%E8%AE%B0%E5%BD%95/</loc>
+    <loc>https://repeater11.cc/categories/%E6%96%87%E5%8C%96%E8%AF%BE/</loc>
     <lastmod>2023-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://repeater11.cc/categories/%E6%96%87%E5%8C%96%E8%AF%BE/</loc>
+    <loc>https://repeater11.cc/categories/%E8%A7%A3%E9%A2%98%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2023-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
